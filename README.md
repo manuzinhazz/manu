@@ -1,4 +1,4 @@
-function setup() {
+ sefunctiontup() {
   createCanvas(400, 400);
 }
 
